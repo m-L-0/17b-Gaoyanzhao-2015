@@ -28,19 +28,15 @@
 
 ### Captcha  
 
-1. 统计数据集
-
-![](./Captcha/images/123.png)
-![](./Captcha/images/234.png)
-
+1. 统计数据集  
+![123](/home/yanzhao/lastwork/Captcha/images/123.png)  
+![234](/home/yanzhao/lastwork/Captcha/images/234.png)  
 2. 数据集划分  
 训练集、验证集、测试集以8:1:1划分
 3. 模型设计  
 cnn,3个卷积池化层，dropout = 0.5 ,优化函数优化
 4. 训练结果  
- | 数据集 | 准确率 |
- | ------ | ------|
- | 训练集 | 98.04% |
- | 验证集 | 90.2% |
- | 测试集 | 91.3% |
+- 训练集 正确率 98.04%  
+- 验证集 正确率 90.2%  
+- 测试集 正确率 91.2%  
 

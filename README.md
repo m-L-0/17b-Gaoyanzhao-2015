@@ -30,9 +30,9 @@
 
 1. 统计数据集  
 
-![123](/home/yanzhao/lastwork/Captcha/images/123.png)  
+![123](/Captcha/images/123.png)  
 
-![234](/home/yanzhao/lastwork/Captcha/images/234.png)  
+![234](/Captcha/images/234.png)  
 
 2. 数据集划分  
 训练集、验证集、测试集以8:1:1划分
